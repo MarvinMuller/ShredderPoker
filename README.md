@@ -15,13 +15,17 @@ You can check out a demo of the software in action in this [video]( https://www.
 🛠️ Technologies Used
 
 Language: C#
+
 OCR: Tesseract Library
+
 UI Tools: Windows Forms
 
 ⚙️ Features
 
 Real-time screen capture and text information recognition.
+
 Data processing to automate actions in the game.
+
 Specific functions to interact with the user interface (GUI) and control automated workflows.
 
 🚧 Project Status
@@ -29,7 +33,9 @@ Specific functions to interact with the user interface (GUI) and control automat
 Development of this project has been discontinued for ethical reasons and compliance with PokerStars' terms of service. There are no plans to continue this project, but it serves as a demonstration of my skills in:
 
 OCR library integration.
+
 Automation of repetitive tasks.
+
 UI development in C#.
 
 ⚠️ Warning: This project was created for educational purposes only and should not be used in online games or platforms where bots are prohibited.
